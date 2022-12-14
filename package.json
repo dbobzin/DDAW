@@ -2,11 +2,11 @@
   "name": "final",
   "version": "1.0.0",
   "description": "",
-  "main": "frontend/index.js",
+  "main": "index.js",
   "scripts": {
     
-    "frontend": "cd frontend; npm start",
-    "backend": "cd backend; npm start"
+    "start": "concurrently \"npm run --prefix ./frontend/ start \" \"npm run --prefix ./backend/ start\""
+    
     
   },
   "repository": {
