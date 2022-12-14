@@ -1,0 +1,22 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "frontend/index.js",
+  "scripts": {
+    
+    "frontend": "cd frontend; npm start",
+    "backend": "cd backend; npm start"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbobzin/DDAW"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbobzin/DDAW/issues"
+  },
+  "homepage": "https://github.com/dbobzin/DDAW#readme"
+}
