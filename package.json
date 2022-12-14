@@ -2,7 +2,7 @@
   "name": "final",
   "version": "1.0.0",
   "description": "",
-  "main": "frontend/index.js",
+  "main": "frontend/src/index.js",
   "scripts": {
     
     "frontend": "cd frontend; npm start",
